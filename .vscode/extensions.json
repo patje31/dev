@@ -3,6 +3,7 @@
         "ms-python.vscode-pylance",
         "benjamin-simmonds.pythoncpp-debug",
         "wscats.cors-browser",
-        "vscjava.vscode-java-pack"
+        "vscjava.vscode-java-pack",
+        "redhat.java"
     ]
 }
