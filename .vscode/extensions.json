@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        var log = CSScript.Evaluator
+                  .CreateDelegate(@"void Log(string message)
+                                    {
+                                        Console.WriteLine(´auto´);
+                                    }");
+
+log("Test hallo world");
+    ]
+}
